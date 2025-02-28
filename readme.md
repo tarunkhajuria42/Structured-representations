@@ -1,6 +1,6 @@
 ***Readme***
 
-This folder contains the code to analyze for the paper 'How structured are the representations in transformer-based vision encoders?'
+This folder contains the code to analyze for the paper 'Interpreting the structure of multi-object representations in vision encoders'
 
 The three folders constrain the experiments done in the paper.
 
